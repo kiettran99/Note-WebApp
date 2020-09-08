@@ -1,0 +1,23 @@
+{
+  "name": "note-webapp",
+  "version": "1.0.0",
+  "description": "Build a simple note application.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/radiun42/Note-WebApp.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/radiun42/Note-WebApp/issues"
+  },
+  "homepage": "https://github.com/radiun42/Note-WebApp#readme",
+  "dependencies": {
+    "create-react-app": "^3.4.1"
+  }
+}
